@@ -15,3 +15,4 @@ class MyRegisterForm(UserCreationForm):
 # dodaje 3 komentarz - trzeci push
 
 # checking4 - 1st
+# checking 4 # 2nd
