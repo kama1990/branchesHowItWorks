@@ -11,3 +11,4 @@ class MyRegisterForm(UserCreationForm):
         fields = ('username', 'email', 'password1', 'password2')
 
 # dodaje 1 komentarz - będzie merga do develop
+# dodaje 2 komentarz - drugi push 
