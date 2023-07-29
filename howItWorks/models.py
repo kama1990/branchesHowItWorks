@@ -1,5 +1,14 @@
 from django.db import models
 
 # Create your models here.
-class Profile:
+class Profile(models.Model):
+    pass
+
+class Profile(models.Model):
+    pass
+
+class Profile(models.Model):
+    pass
+
+class Profile(models.Model):
     pass
