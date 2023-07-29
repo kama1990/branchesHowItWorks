@@ -12,3 +12,4 @@ class MyRegisterForm(UserCreationForm):
 
 # dodaje 1 komentarz - będzie merga do develop
 # dodaje 2 komentarz - drugi push 
+# dodaje 3 komentarz - trzeci push 
