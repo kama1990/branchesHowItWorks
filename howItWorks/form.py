@@ -9,3 +9,5 @@ class MyRegisterForm(UserCreationForm):
     class Meta:
         model = User
         fields = ('username', 'email', 'password1', 'password2')
+
+# dodaje 1 komentarz - będzie merga do develop
