@@ -24,3 +24,5 @@ class Profile(models.Model):
 # models checking6
 
 # models checking7
+# checking 9
+# checking 9 nie bedzie w checking 10
