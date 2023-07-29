@@ -20,3 +20,5 @@ class Profile(models.Model):
 
 # models checking5
 # models checking5 - 2nd
+
+# models checking6
