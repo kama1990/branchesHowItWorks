@@ -9,3 +9,6 @@ class Profile(models.Model):
 
 class Profile(models.Model):
     pass
+
+class Profile(models.Model):
+    pass
