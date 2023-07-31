@@ -18,3 +18,5 @@ class MyRegisterForm(UserCreationForm):
 # checking 4 # 2nd
 
 #dodane w checking 10 i bedzie merg z checking9
+
+# adding something 
