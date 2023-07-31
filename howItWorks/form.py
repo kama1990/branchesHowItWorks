@@ -20,3 +20,5 @@ class MyRegisterForm(UserCreationForm):
 #dodane w checking 10 i bedzie merg z checking9
 
 # adding something 
+
+# adding somethin2 - branch myBranch - file branches
